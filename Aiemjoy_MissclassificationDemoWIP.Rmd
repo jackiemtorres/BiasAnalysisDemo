@@ -137,7 +137,7 @@ ggplot(MissClassDF, aes(x=spca, y=corr.OR)) +
 
 
 #Modified Link Function (Super cool!)
-J. Nuehaus, Biometria 1999 (in SAS)
+J. Nuehaus, Biometria 1999 (in SAS) JMT: Is this J. Neuhaus from THE UCSF DEB?
 ```{r}
 
 #custom link function   
